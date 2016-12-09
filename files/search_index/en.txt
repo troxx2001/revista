@@ -1,0 +1,31 @@
+UNIVERSIDAD	NACIONAL	ABIERTA	Y	A	DISTANCIA 	 		
+
+MULTIMEDIA 	 		
+
+301123_8 	
+Momento	4	Trabajo	Individual 	 		
+
+		 TUTOR 	 		
+
+VICTOR	FERNANDO	CANON	RODRIGUEZ	
+		 		 		
+
+Presenta 	 		 Germán	Alberto	Mora	Quintero	–	79558132 	
+
+		
+Bogotá,	2016 	
+
+Copia	de	prueba:	no	optimizada	para	impresión	en	alta	calidad	o	distribución	digital
+
+El	Ministerio	de	Tecnologías	de	la	Información	y	las Comunicaciones	-	MINTIC	en	alianza	con	FONADE	y	la Universidad	Nacional	Abierta	y	a	Distancia	UNAD,	en	busca de	promover	la	cultura	digital	en	el	país	en	temáticas	de contenidos	digitales,	convoca	a	los	equipos	de emprendimiento	con	ideas	de	negocio	que	tengan	ya	un prototipo	básico	del	producto	cuyos	contenidos	digitales	sean novedosos,	innovadores	y	respondan	a	las	demandas actuales,	para	potencializar	estas	ideas	en	el	mercado	y hacerlas	realidad.	
+		
+Copia	de	prueba:	no	optimizada	para	impresión	en	alta	calidad	o	distribución	digital
+
+CONVIERTE	TU	PC	EN	UN	NAS	
+
+Si	el	ordenador	posee	un	disco	duro	grande	y	una	cantidad	generosa	de	RAM,	puedes convertirlo	en	un	NAS,	es	decir,	un	almacén	de	ficheros	online	o	disco	duro	remoto	para todos	tus	dispositivos.	 Conéctalo	a	la	red	WiFi	y	úsalo	para	almacenar	todos	tus	vídeos,	música,	fotos,	y	otro contenido	al	que	podrás	acceder	al	instante	desde	cualquier	PC,	móvil	o	tablet	conectado a	la	misma	red	WiFi.	 También	puedes	usar	un	NAS	para	guardar	los	backups	de	seguridad	de	tus	dispositivos. De	esta	forma	liberarás	espacio	en	tu	ordenador	de	trabajo,	y	sólo	tendrás	que almacenar	ficheros	en	un	único	lugar,	accesible	para	cualquier	dispositivo	al	que	des permiso.	 El	software	gratuito	más	popular	para	convertir	un	PC	en	un	NAS	es	FreeNAS,	pero necesita	8	GB	de	RAM.	Su	gran	ventaja	es	que	funciona	con	cualquier	sistema	operativo: Windows,	Linux,	OS	X,	Android,	etc.	Otras	alternativas	son	OpenMediaVault,	openfiler	o NAS4free.	También	puedes	instalar	Ubuntu,	como	explicamos	en	un	paso	anterior,	y	usar sus	herramientas	de	servidor.	 Si	le	conectas	una	impresora,	a	través	de	Windows	y	WiFi	podrás	imprimir	de	forma inalámbrica	desde	diferentes	dispositivos.	
+
+Copia	de	prueba:	no	optimizada	para	impresión	en	alta	calidad	o	distribución	digital
+
+http://www.taringa.net/posts/ebooks-tutoriales/19630587/15-cosas-que-puedes-hacer-con-tu-viejaPC.html
+
